@@ -1,3 +1,17 @@
+body {
+   margin: 0;
+   background-color: #d3d4d9;
+}
+
+header h1{
+    text-align: center;
+    margin: 50px 0 60px 0;
+    color: #143b48;
+    font-family: "PT Serif", serif;
+    font-size: 2.2rem;
+    letter-spacing: 0.5px;
+}
+
 table {
     margin: 20px auto;
     border:22px solid #143b48; 
@@ -16,7 +30,7 @@ td:first-child, tr:last-child td{
     width: 30px;
     height: 30px;
     background-color: #eeeeee;
-    font-family: Serif;
+    font-family: "PT Serif", serif;
     font-weight: bold;
     color: #333;
 }
